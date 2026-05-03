@@ -2,8 +2,12 @@
 
 Local observability UI skeleton for agent-state experiments, split from mixed NEUROSTATE source notes.
 
-Status: `STAGED_LOCAL_ONLY_SPLIT_REQUIRED`. This staging repo is local-only until current
-secret scan, path scrub, claims scan and ActionGate approval pass.
+Status: `PUBLIC_GITHUB_RESEARCH_BOUNDARY`.
+
+This repository is a sanitized public skeleton. It is not a finished dashboard,
+not a medical or cognitive diagnostic tool, and not a connector to private
+runtime state. Use it as a UI boundary note for agent-state observability
+experiments.
 
 ## What This Includes
 
