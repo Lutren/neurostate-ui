@@ -8,5 +8,5 @@ Before any public push:
 - run secret scan;
 - run path scrub;
 - run claims scan;
-- review license status;
+- verify license text;
 - verify ActionGate approval.

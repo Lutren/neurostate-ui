@@ -10,7 +10,7 @@ Local observability UI skeleton for agent-state experiments, split from mixed NE
 |---|---|
 | repo | `neurostate-ui` |
 | status | `STAGED_LOCAL_ONLY_SPLIT_REQUIRED` |
-| license | License review required; source must be split and sanitized before public release. |
+| license | MIT License for this sanitized public skeleton; source imports remain excluded until split and sanitized. |
 | fixtures | synthetic only |
 | private boundary | see `PRIVATE_EXCLUSIONS.md` |
 

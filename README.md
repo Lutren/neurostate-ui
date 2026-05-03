@@ -2,8 +2,8 @@
 
 Local observability UI skeleton for agent-state experiments, split from mixed NEUROSTATE source notes.
 
-Status: `STAGED_LOCAL_ONLY_SPLIT_REQUIRED`. This staging repo is local-only until secret
-scan, path scrub, claims scan, license review and ActionGate approval pass.
+Status: `STAGED_LOCAL_ONLY_SPLIT_REQUIRED`. This staging repo is local-only until current
+secret scan, path scrub, claims scan and ActionGate approval pass.
 
 ## What This Includes
 
@@ -17,7 +17,7 @@ See `PRIVATE_EXCLUSIONS.md`.
 
 ## License
 
-License review required; source must be split and sanitized before public release.
+MIT License for this sanitized public skeleton; source imports remain excluded until split and sanitized.
 
 ## Next Steps
 
